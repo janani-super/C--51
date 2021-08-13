@@ -1,0 +1,24 @@
+h1{
+    color:brown;
+}
+*{
+    border: solid;
+    
+}
+body{
+    background-color: #808080;
+}
+.menu{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    background: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
